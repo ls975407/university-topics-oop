@@ -99,7 +99,7 @@
 
 介面設計: 林郁恆 
 
-開發環境: Qt/C++
+開發環境: [Qt/C++](https://www.qt.io/)
 
 專題簡報: [平面機構模擬 簡報影片](https://www.youtube.com/watch?v=4Rr0mEYFWQo)
 
