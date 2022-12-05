@@ -1,12 +1,15 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 # 平面多連桿模擬程式
 
 > 大學**物件導向**課程的期末專題 簡報: [平面機構模擬 簡報影片](https://www.youtube.com/watch?v=4Rr0mEYFWQo)
 
 
-
-
-<table style="border: none;"><tr style="border: none;">
-<td style="border: none;">
+<table><tr>
+<td>
 
 用於模擬 **機構學**多連桿系統的運動情形
 
