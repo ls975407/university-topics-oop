@@ -2,13 +2,30 @@
 
 > 大學**物件導向**課程的期末專題 簡報: [平面機構模擬 簡報影片](https://www.youtube.com/watch?v=4Rr0mEYFWQo)
 
+
+
+
+<table style="border-collapse: collapse; border: none;"><tr style="border: none;">
+<td style="border: none;">
+
 用於模擬 **機構學**多連桿系統的運動情形
 
-提供給機構設計師的**電腦輔助軟體**，類似軟體如
+提供給機構設計師的**電腦輔助軟體**，
+
+類似軟體如
 
 [ARTAS   2D動態分析軟體](https://www.simweb.com.tw/contents/zh-tw/p66311_ARTAS.html)
     
 [Linkage 平面機構設計軟體](https://blog.rectorsquid.com/linkage-mechanism-designer-and-simulator/)
+
+</td>
+<td style="border: none;">
+
+![movie](short.gif)
+
+</td>
+</tr></table>
+
 
 ## 物件導向設計細節
 > 以下用**top-down程式設計**順序說明，括弧英文對應程式碼的物件名稱。
