@@ -5,7 +5,7 @@
 
 
 
-<table style="border-collapse: collapse; border: none;"><tr style="border: none;">
+<table style="border: none;"><tr style="border: none;">
 <td style="border: none;">
 
 用於模擬 **機構學**多連桿系統的運動情形
